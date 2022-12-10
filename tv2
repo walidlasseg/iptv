@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="beIN Sports Max 1 HD" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_MAX_1.png" group-title="TR: beIN Sports",beIN Sports Max 1 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5351.ts
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="beIN Sports Max 2 HD" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_MAX_2.png" group-title="TR: beIN Sports",beIN Sports Max 2 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5352.ts
