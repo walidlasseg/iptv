@@ -1,30 +1,939 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" status="timeout",Al Jazeera Balkans (1080p)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" status="timeout",Al Jazeera Arabic (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeera/live
-#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" status="timeout",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" status="timeout",Al Jazeera Arabic (1080p)
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" status="timeout" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Al Jazeera Arabic (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" status="timeout",Al Jazeera Documentary (270p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" status="timeout",Al Jazeera English (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" status="timeout",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" status="timeout",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" status="timeout",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" status="timeout",Al Rayyan Al Qadeem (1080p)
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlRayyanTV.qa" status="timeout",Al Rayyan (1080p)
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QatarTV2.qa" status="timeout",Qatar TV 2 (720p)
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-id="QatarTV.qa" status="timeout",Qatar TV (360p)
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1,|WC| WORLD CUP LIVE SCORE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218551
+#EXTINF:-1,|WC| BEIN SPORTS MAX 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
+#EXTINF:-1,|WC| BEIN SPORTS MAX 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216923
+#EXTINF:-1,|WC| BEIN SPORTS MAX 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216924
+#EXTINF:-1,|WC| BEIN SPORTS MAX 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216925
+#EXTINF:-1,|WC| BEIN SPORTS MAX 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216926
+#EXTINF:-1,|WC| BEIN SPORTS MAX 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216927
+#EXTINF:-1,|WC| BEIN SPORTS MAX 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
+#EXTINF:-1,|WC| BEIN SPORTS MAX 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
+#EXTINF:-1,|WC| BEIN SPORTS MAX 3 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
+#EXTINF:-1,|WC| BEIN SPORTS MAX 4 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
+#EXTINF:-1,|WC| BEIN SPORTS MAX 5 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
+#EXTINF:-1,|WC| BEIN SPORTS MAX 6 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
+#EXTINF:-1,|WC| BEIN SPORTS MAX 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216928
+#EXTINF:-1,|WC| BEIN SPORTS MAX 2 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216929
+#EXTINF:-1,|WC| BEIN SPORTS MAX 3 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216930
+#EXTINF:-1,|WC| BEIN SPORTS MAX 4 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216931
+#EXTINF:-1,|WC| BEIN SPORTS MAX 5 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216932
+#EXTINF:-1,|WC| BEIN SPORTS MAX 6 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216933
+#EXTINF:-1,|WC| BEIN SPORTS MAX 1 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216934
+#EXTINF:-1,|WC| BEIN SPORTS MAX 2 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216935
+#EXTINF:-1,|WC| BEIN SPORTS MAX 3 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216936
+#EXTINF:-1,|WC| BEIN SPORTS MAX 4 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216937
+#EXTINF:-1,|WC| BEIN SPORTS MAX 5 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216938
+#EXTINF:-1,|WC| BEIN SPORTS MAX 6 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216939
+#EXTINF:-1,|WC| WORLD CUP 1 REPLAY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218033
+#EXTINF:-1,|WC| WORLD CUP 2 REPLAY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218034
+#EXTINF:-1,|WC| WORLD CUP 3 REPLAY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218035
+#EXTINF:-1,|WC| WORLD CUP 4 REPLAY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218036
+#EXTINF:-1,|AR| ALKASS EXTRA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
+#EXTINF:-1,|AR| ALKASS EXTRA 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
+#EXTINF:-1,|AR| ALKASS EXTRA 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218733
+#EXTINF:-1,|AR| ALKASS EXTRA 2 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218734
+#EXTINF:-1,|AR| ALKASS EXTRA 1 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218727
+#EXTINF:-1,|AR| ALKASS EXTRA 2 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218728
+#EXTINF:-1,|AR| ALKASS EXTRA 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218729
+#EXTINF:-1,|AR| ALKASS EXTRA 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218730
+#EXTINF:-1,|FR| BEIN SPORT 1 FRANCE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218011
+#EXTINF:-1,TV2 PLAY SPORT 02 NORGE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218026
+#EXTINF:-1,CT SPORT HD CZECH REPUBLIC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218027
+#EXTINF:-1,|AR| BEIN SPORTS 1 ARAB BEIN SPORTS 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218028
+#EXTINF:-1,|SP-4K| GOL MUNDIAL 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218265
+#EXTINF:-1,|SP-4K| GOL MUNDIAL 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218266
+#EXTINF:-1,|SP| GOL MUNDIAL 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218267
+#EXTINF:-1,|SP| GOL MUNDIAL 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218268
+#EXTINF:-1,|SP| GOL MUNDIAL 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218269
+#EXTINF:-1,|SP| GOL MUNDIAL 2 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218270
+#EXTINF:-1,|WC| BEIN MAX 1 LOCAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218594
+#EXTINF:-1,|WC| BEIN MAX 2 LOCAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218595
+#EXTINF:-1,|WC| BEIN MAX 1 LOCAL SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218735
+#EXTINF:-1,|WC| BEIN MAX 2 LOCAL SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218736
+#EXTINF:-1,|FR| CANAL+ FOOT FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/199965
+#EXTINF:-1,|FR| CANAL+  SPORT HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126826
+#EXTINF:-1,|FR| CANAL+ FOOT HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/199964
+#EXTINF:-1,|FR| CANAL+ SPORT SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126834
+#EXTINF:-1,|FR| CANAL+ PREMIER LEAGUE SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126840
+#EXTINF:-1,|FR| CANAL+ FOOT SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/199963
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126919
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126920
+#EXTINF:-1,|FR| RMC SPORT LIVE  3 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126921
+#EXTINF:-1,|FR| RMC SPORT LIVE  4 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126922
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126923
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126924
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126925
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126926
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126927
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126928
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126929
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126930
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126931
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126932
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126933
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126935
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126936
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126937
+#EXTINF:-1,|FR| BEIN MAX 4 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126938
+#EXTINF:-1,|FR| BEIN MAX 5 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126939
+#EXTINF:-1,|FR| BEIN MAX 6 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126940
+#EXTINF:-1,|FR| BEIN MAX 7 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126941
+#EXTINF:-1,|FR| BEIN MAX 8 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126942
+#EXTINF:-1,|FR| BEIN MAX 9 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126943
+#EXTINF:-1,|FR| BEIN MAX 10 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126944
+#EXTINF:-1,|FR| MULTISPORTS 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126946
+#EXTINF:-1,|FR| MULTISPORTS 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126947
+#EXTINF:-1,|FR| MULTISPORTS 3 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126948
+#EXTINF:-1,|FR| MULTISPORTS 4 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126949
+#EXTINF:-1,|FR| MULTISPORTS 5 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126950
+#EXTINF:-1,|FR| MULTISPORTS 6 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126951
+#EXTINF:-1,|FR| OL TV FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126952
+#EXTINF:-1,|FR| INFOSPORT+ FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126954
+#EXTINF:-1,|FR| L EQUIPE FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126955
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127000
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127001
+#EXTINF:-1,|FR| RMC SPORT LIVE 3 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127002
+#EXTINF:-1,|FR| RMC SPORT LIVE 4 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127003
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127004
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127005
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127006
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127007
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127008
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127009
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127010
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127011
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127012
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127013
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127014
+#EXTINF:-1,|FR| BEIN SPORT 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127016
+#EXTINF:-1,|FR| BEIN SPORT 2 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127017
+#EXTINF:-1,|FR| BEIN SPORT 3 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127018
+#EXTINF:-1,|FR| MULTI SPORTS 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127020
+#EXTINF:-1,|FR| MULTI SPORTS 2 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127021
+#EXTINF:-1,|FR| MULTI SPORTS 3 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127022
+#EXTINF:-1,|FR| MULTI SPORTS 4 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127023
+#EXTINF:-1,|FR| MULTI SPORTS 5 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127024
+#EXTINF:-1,|FR| MULTI SPORTS 6 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/127025
+#EXTINF:-1,|FR| RMC SPORT 1 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126964
+#EXTINF:-1,|FR| RMC SPORT 2 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126965
+#EXTINF:-1,|FR| RMC SPORT LIVE 3 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126966
+#EXTINF:-1,|FR| RMC SPORT LIVE 4 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126967
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126968
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126969
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126970
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126971
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126972
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126973
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126974
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126975
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126976
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126977
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126978
+#EXTINF:-1,|FR| BEIN SPORT 1 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126980
+#EXTINF:-1,|FR| BEIN SPORT 2 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126981
+#EXTINF:-1,|FR| BEIN SPORT 3 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126982
+#EXTINF:-1,|FR| MULTI SPORTS 1 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126984
+#EXTINF:-1,|FR| MULTI SPORTS 2 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126985
+#EXTINF:-1,|FR| MULTI SPORTS 4 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126986
+#EXTINF:-1,|FR| MULTI SPORTS 3 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126987
+#EXTINF:-1,|FR| MULTI SPORTS 5 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126988
+#EXTINF:-1,|FR| MULTI SPORTS 6 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126989
+#EXTINF:-1,|FR| INFOSPORT+ HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126991
+#EXTINF:-1,|FR| L EQUIPE 21 HEVC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/126992
+#EXTINF:-1,|FR| AMAZON PRIME MULTIPLEX
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170138
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141641
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141642
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141643
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141644
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141645
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141646
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 7 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141647
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 8 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/141648
+#EXTINF:-1,|FR| AMAZON PRIME 1 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170139
+#EXTINF:-1,|FR| AMAZON PRIME 2 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170140
+#EXTINF:-1,|FR| AMAZON PRIME 3 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170141
+#EXTINF:-1,|FR| AMAZON PRIME 4 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170142
+#EXTINF:-1,|FR| AMAZON PRIME 5 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170143
+#EXTINF:-1,|FR| AMAZON PRIME 6 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170144
+#EXTINF:-1,|FR| AMAZON PRIME 7 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170145
+#EXTINF:-1,|FR| AMAZON PRIME 8 HD LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/170146
+#EXTINF:-1,|SA| KSA SPORTS 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/16654
+#EXTINF:-1,|SA| KSA SPORTS 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/16653
+#EXTINF:-1,|SA| KSA SPORTS 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/16652
+#EXTINF:-1,|SA| KSA SPORTS 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/16651
+#EXTINF:-1,|SA| SSC NEWS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200592
+#EXTINF:-1,|SA| SSC 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139510
+#EXTINF:-1,|SA| SSC 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139511
+#EXTINF:-1,|SA| SSC 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139512
+#EXTINF:-1,|SA| SSC 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139513
+#EXTINF:-1,|SA| SSC 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139514
+#EXTINF:-1,|SA| SSC 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139515
+#EXTINF:-1,|SA| SSC 7 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/139516
+#EXTINF:-1,|SA| SSC EXTRA 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200593
+#EXTINF:-1,|SA| SSC EXTRA 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200594
+#EXTINF:-1,|SA| SSC EXTRA 3
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200595
+#EXTINF:-1,AR: ON TV SPORT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/7189
+#EXTINF:-1,AR: ONTIME SPORTS 3
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/111794
+#EXTINF:-1,AR: ONTIME SPORTS 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/111795
+#EXTINF:-1,AR: Dubai Sport 1 hd
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/7399
+#EXTINF:-1,AR: DUBAI SPORT 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/7151
+#EXTINF:-1,AR: DUBAI SPORT 3
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/7152
+#EXTINF:-1,AR: ABU DHABI SPORTS 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/7148
+#EXTINF:-1,AR: ABU DHABI SPORTS 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/7397
+#EXTINF:-1,AR: ABU DHABI SPORTS 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94777
+#EXTINF:-1,AR: ABU DHABI SPORTS 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94778
+#EXTINF:-1,|BE| PLAY SPORTS 1  (ONLY EVENTS)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196643
+#EXTINF:-1,|BE| PLAY SPORTS 2  (ONLY EVENTS)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196644
+#EXTINF:-1,|BE| PLAY SPORT 3  (ONLY EVENTS)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196645
+#EXTINF:-1,|BE| PLAY SPORT 4  (ONLY EVENTS)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196646
+#EXTINF:-1,|BE| PLAY SPORT 5  (ONLY EVENTS)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196647
+#EXTINF:-1,|BE| ELEVEN SPORTS 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55486
+#EXTINF:-1,|BE| ELEVEN SPORTS 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55487
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/165995
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1 |FR|
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/165996
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/165997
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1 FR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196653
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1 NL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196654
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 2 FR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196655
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 2 NL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196656
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 3 FR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196657
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 3 NL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196658
+#EXTINF:-1,|BE| ELEVEN SPORTS 1 FR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196659
+#EXTINF:-1,|BE| ELEVEN SPORTS 1 NL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196660
+#EXTINF:-1,|BE| ELEVEN SPORTS 2 FR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196661
+#EXTINF:-1,|BE| ELEVEN SPORTS 2 NL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196662
+#EXTINF:-1,|BE| ELEVEN SPORTS 3 FR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196663
+#EXTINF:-1,|BE| ELEVEN SPORTS 3 NL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/196664
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/166054
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1 HD |FR| 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/166055
+#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 2 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/166056
+#EXTINF:-1,|BE| ELEVEN SPORT 1 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/166062
+#EXTINF:-1,|BE| ELEVEN SPORT 2 4K
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/166063
+#EXTINF:-1,CH: TELECLUB SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94485
+#EXTINF:-1,CH: TELECLUB SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94486
+#EXTINF:-1,CH: MY SPORTS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94487
+#EXTINF:-1,CH: MY SPORTS 1 HD/SKY 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94488
+#EXTINF:-1,CH: MY SPORTS 2 HD/SKY 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94489
+#EXTINF:-1,CH: MY SPORTS 3 HD/SKY 3
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94490
+#EXTINF:-1,CH: MY SPORTS 4 HD/SKY 4
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94491
+#EXTINF:-1,CH: MY SPORTS 5 HD/SKY 5
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94492
+#EXTINF:-1,CH: MY SPORTS 6 HD/SKY 6
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94493
+#EXTINF:-1,CH: MY SPORTS 7 HD/SKY 7  (LIVE ON MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94494
+#EXTINF:-1,CH: MY SPORTS 8 HD/SKY 8  (LIVE ON MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94495
+#EXTINF:-1,CH: MY SPORTS 9 HD/SKY 9 (LIVE ON MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94496
+#EXTINF:-1,|DE| SKY SPORT NEWS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55703
+#EXTINF:-1,|DE| SKY SPORT F1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124231
+#EXTINF:-1,|DE| SKY SPORT 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55704
+#EXTINF:-1,|DE| SKY SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55705
+#EXTINF:-1,|DE| SKY SPORT 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55706
+#EXTINF:-1,|DE| SKY SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55707
+#EXTINF:-1,|DE| SKY SPORT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124232
+#EXTINF:-1,|DE| SKY SPORT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124233
+#EXTINF:-1,DE: SKY SPORT 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124234
+#EXTINF:-1,|DE| SKY SPORT 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124235
+#EXTINF:-1,|DE| SKY SPORT 7 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124236
+#EXTINF:-1,|DE| SKY SPORT 8 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124237
+#EXTINF:-1,|DE| SKY SPORT 9 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124238
+#EXTINF:-1,|DE| SKY SPORT 10 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124239
+#EXTINF:-1,|DE| SKY SPORT 11 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124240
+#EXTINF:-1,|DE| SKY SPORT PREMIER LEAGUE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193619
+#EXTINF:-1,|DE| SKY SPORT MIX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193618
+#EXTINF:-1,|DE| SKY SPORT TOP EVENT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193615
+#EXTINF:-1,|DE| DAZN 1 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55708
+#EXTINF:-1,|DE| DAZN 2 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55709
+#EXTINF:-1,|DE| FC BAYERN TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200529
+#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55710
+#EXTINF:-1,|DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55711
+#EXTINF:-1,|DE| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55712
+#EXTINF:-1,|DE| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55713
+#EXTINF:-1,|DE| SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55714
+#EXTINF:-1,|DE| SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55715
+#EXTINF:-1,|DE| SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55716
+#EXTINF:-1,|DE| SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55717
+#EXTINF:-1,|DE| SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55718
+#EXTINF:-1,|DE| SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55719
+#EXTINF:-1,|DE| PRIME 1 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157872
+#EXTINF:-1,|DE| PRIME 2 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157873
+#EXTINF:-1,|DE| PRIME 3 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157874
+#EXTINF:-1,|DE| PRIME 4 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157875
+#EXTINF:-1,|DE| PRIME 5 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157876
+#EXTINF:-1,|DE| PRIME 6 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157877
+#EXTINF:-1,|DE| PRIME 7 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157878
+#EXTINF:-1,|DE| PRIME 8 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157879
+#EXTINF:-1,|DE| DAZN 1 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157880
+#EXTINF:-1,|DE| DAZN 2 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157881
+#EXTINF:-1,|DE| DAZN 3 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157882
+#EXTINF:-1,|DE| DAZN 4 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157883
+#EXTINF:-1,|DE| DAZN 5 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157884
+#EXTINF:-1,|DE| DAZN 6 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157885
+#EXTINF:-1,|DE| DAZN 7 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157886
+#EXTINF:-1,|DE| DAZN 8 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157887
+#EXTINF:-1,|DE| DAZN 9 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157888
+#EXTINF:-1,|DE| DAZN 10 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157889
+#EXTINF:-1,|DE| DAZN 11 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157890
+#EXTINF:-1,|DE| DAZN 12 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157891
+#EXTINF:-1,|DE| DAZN 13 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157892
+#EXTINF:-1,|DE| DAZN 14 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157893
+#EXTINF:-1,|DE| DAZN 15 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157894
+#EXTINF:-1,|DE| DAZN 16 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157895
+#EXTINF:-1,|DE| DAZN 17 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157896
+#EXTINF:-1,|DE| DAZN 18 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157897
+#EXTINF:-1,|DE| DAZN 19 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157898
+#EXTINF:-1,|DE| DAZN 20 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157899
+#EXTINF:-1,|DE| DAZN 21 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157900
+#EXTINF:-1,|DE| DAZN 22 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157901
+#EXTINF:-1,|DE| DAZN 23 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157902
+#EXTINF:-1,|DE| DAZN 24 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157903
+#EXTINF:-1,|DE| DAZN 25 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157904
+#EXTINF:-1,|DE| DAZN 26 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157905
+#EXTINF:-1,|DE| DAZN 27 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157906
+#EXTINF:-1,|DE| DAZN 28 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157907
+#EXTINF:-1,|DE| DAZN 29 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157908
+#EXTINF:-1,|DE| DAZN 30 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157909
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 1  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157910
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 2  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157911
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 3  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157912
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 4  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157913
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 5  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157914
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 6  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157915
+#EXTINF:-1,|DE| TELEKOM - DEL SPORT 7  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157916
+#EXTINF:-1,|DE| TELEKOM - BBL SPORT 1  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157917
+#EXTINF:-1,|DE| TELEKOM - BBL SPORT 2  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157918
+#EXTINF:-1,|DE| TELEKOM - BBL SPORT 3  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157919
+#EXTINF:-1,|DE| TELEKOM - BBL SPORT 4  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157920
+#EXTINF:-1,|DE| TELEKOM - SKY SPORT KOMPAKT 1 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157921
+#EXTINF:-1,|DE| TELEKOM - SKY SPORT KOMPAKT 2 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157922
+#EXTINF:-1,|DE| TELEKOM - SKY SPORT KOMPAKT 3 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157923
+#EXTINF:-1,|DE| TELEKOM - SKY SPORT KOMPAKT 4 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157924
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 1  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157925
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 2  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157926
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 3  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157927
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 4  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157928
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 5  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157929
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 6  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157930
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 7  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157931
+#EXTINF:-1,|DE| TELEKOM - BUNDESLIGA 3 - 8  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157932
+#EXTINF:-1,|DE| TELEKOM - FC BAYERN TV FULL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157933
+#EXTINF:-1,|DE| TELEKOM - FC BAYERN TV SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157934
+#EXTINF:-1,DE: RTL+ SPORT 1 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202829
+#EXTINF:-1,DE: RTL+ SPORT 2 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202830
+#EXTINF:-1,DE: RTL+ SPORT 3 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202831
+#EXTINF:-1,DE: RTL+ SPORT 4 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202832
+#EXTINF:-1,DE: RTL+ SPORT 5 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202833
+#EXTINF:-1,DE: RTL+ SPORT 6 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202834
+#EXTINF:-1,DE: RTL+ SPORT 7 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202835
+#EXTINF:-1,DE: RTL+ SPORT 8 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202836
+#EXTINF:-1,DE: RTL+ SPORT 9 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202837
+#EXTINF:-1,DE: RTL+ SPORT 10 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202838
+#EXTINF:-1,DE-4K: SKY SPORT NEWS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116391
+#EXTINF:-1,DE-4K: SKY SPORT F1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193049
+#EXTINF:-1,DE-4K: SKY SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116393
+#EXTINF:-1,DE-4K: SKY SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116395
+#EXTINF:-1,DE-4K: SKY SPORT PREMIER LEAGUE FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193624
+#EXTINF:-1,DE-4K: SKY SPORT MIX FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193623
+#EXTINF:-1,DE-4K: SKY SPORT TOP EVENT FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193620
+#EXTINF:-1,DE-4K: DAZN 1 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116396
+#EXTINF:-1,DE-4K: DAZN 2 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116397
+#EXTINF:-1,DE-4K: BUNDESLIGA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116398
+#EXTINF:-1,DE-4K: BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116399
+#EXTINF:-1,DE-4K: BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116400
+#EXTINF:-1,DE-4K: BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116401
+#EXTINF:-1,DE-4K: BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116402
+#EXTINF:-1,DE-4K: BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116403
+#EXTINF:-1,DE-4K: BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116404
+#EXTINF:-1,DE-4K: BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116405
+#EXTINF:-1,DE-4K: BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116406
+#EXTINF:-1,DE-4K: BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116407
+#EXTINF:-1,DE-4K: RTL+ SPORT 1 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202839
+#EXTINF:-1,DE-4K: RTL+ SPORT 2 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202840
+#EXTINF:-1,DE-4K: RTL+ SPORT 3 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202841
+#EXTINF:-1,DE-4K: RTL+ SPORT 4 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202842
+#EXTINF:-1,DE-4K: RTL+ SPORT 5 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202843
+#EXTINF:-1,DE-4K: RTL+ SPORT 6 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202844
+#EXTINF:-1,DE-4K: RTL+ SPORT 7 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202845
+#EXTINF:-1,DE-4K: RTL+ SPORT 8 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202846
+#EXTINF:-1,DE-4K: RTL+ SPORT 9 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202847
+#EXTINF:-1,DE-4K: RTL+ SPORT 10 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202848
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94511
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94512
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94513
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94514
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 7 HD (LIVE DURING EVENT ONLY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211504
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 6 HD (LIVE DURING EVENT ONLY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211503
+#EXTINF:-1,AT: SKY SPORT AUSTRIA 5 HD (LIVE DURING EVENT ONLY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211502
+#EXTINF:-1,AT UHD: Sky Sport Austria 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211505
+#EXTINF:-1,AT UHD: Sky Sport Austria 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211506
+#EXTINF:-1,AT UHD: Sky Sport Austria 3 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211507
+#EXTINF:-1,AT UHD: Sky Sport Austria 4 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211508
+#EXTINF:-1,AT UHD: Sky Sport Austria 5 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211509
+#EXTINF:-1,AT UHD: Sky Sport Austria 6 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211510
+#EXTINF:-1,AT UHD: Sky Sport Austria 7 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211511
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99222
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99223
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99224
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99225
+#EXTINF:-1,TR: BEIN SPORTS 1 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116314
+#EXTINF:-1,TR: BEIN SPORTS 1 UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99226
+#EXTINF:-1,TR: BEIN SPORTS 2 UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99227
+#EXTINF:-1,TR: BEIN SPORTS 3 UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99228
+#EXTINF:-1,TR: BEIN SPORTS 4 UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99229
+#EXTINF:-1,|TR| BEIN SPORTS 5 UHD 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/217371
+#EXTINF:-1,TR: BEIN MAX 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99230
+#EXTINF:-1,TR: BEIN MAX 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99231
+#EXTINF:-1,TR: BEIN SPORTS HABER UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99232
+#EXTINF:-1,TR: SPOR SMART HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99233
+#EXTINF:-1,TR: SPORTS TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99234
+#EXTINF:-1,TR: SARAN SPORT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99235
+#EXTINF:-1,TR: SARAN SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99236
+#EXTINF:-1,TR: TIVIBU SPOR UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99237
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99238
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99239
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99240
+#EXTINF:-1,TR: TRT SPOR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99242
+#EXTINF:-1,TR: TRT SPOR 2 HD+
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116316
+#EXTINF:-1,TR: TRT SPOR UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99243
+#EXTINF:-1,TR: A SPOR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99244
+#EXTINF:-1,TR: A SPOR UHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99245
+#EXTINF:-1,TR: TRT SPOR 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99246
+#EXTINF:-1,TR: GS TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99247
+#EXTINF:-1,TR: FB TV HD PLUS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99248
+#EXTINF:-1,|TR| EXXEN SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/217368
+#EXTINF:-1,|TR| EXXEN SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/217369
+#EXTINF:-1,|TR| EXXEN SPORT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/217370
+#EXTINF:-1,TR: NBA HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99253
+#EXTINF:-1,TR: FIGHT BOX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/99254
+#EXTINF:-1,TR: TRT 4K+
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116227
+#EXTINF:-1,BG: DIEMA SPORT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100364
+#EXTINF:-1,BG: DIEMA SPORT 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100365
+#EXTINF:-1,BG: DIEMA SPORT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/144828
+#EXTINF:-1,BG: MAX SPORT 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100366
+#EXTINF:-1,BG: MAX SPORT 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100367
+#EXTINF:-1,BG: MAX SPORT 3
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100368
+#EXTINF:-1,BG: MAX SPORT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100369
+#EXTINF:-1,BG: NOVA SPORT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100373
+#EXTINF:-1,BG: SPORT PLUS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100374
+#EXTINF:-1,|SW| C MORE FOTBOLL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98157
+#EXTINF:-1,|SW| VIASAT SPORT EXTRA HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98158
+#EXTINF:-1,|SW| VIASAT SPORT ULTRA HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/189855
+#EXTINF:-1,|SW| C MORE GOLF FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98159
+#EXTINF:-1,|SW| C MORE HOCKEY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98160
+#EXTINF:-1,|SW| VIASAT FOTBOLL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98163
+#EXTINF:-1,|SW| VIASAT GOLF
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98164
+#EXTINF:-1,|SW| VIASAT HOCKEY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98165
+#EXTINF:-1,|SW| VIASAT MOTOR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98166
+#EXTINF:-1,|SW| VIASAT SPORT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98167
+#EXTINF:-1,|SW| VIASAT SPORT PREMIUM HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98168
+#EXTINF:-1,|SW| VIASAT ULTRA HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98169
+#EXTINF:-1,|SW| SPORT KANALEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98170
+#EXTINF:-1,|SW| STRIVE SPORT 1 FHD  (Live During Events Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/98171
+#EXTINF:-1,|SW| VIASAT SPORT EXTRA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/162976
+#EXTINF:-1,|SW| FIGHT SPORT FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/189843
+#EXTINF:-1,|SW| V SPORT FOOTBALL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/189844
+#EXTINF:-1,FI: C MORE SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100094
+#EXTINF:-1,FI: C MORE SPORT 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100095
+#EXTINF:-1,FI: C MORE SPORT 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100096
+#EXTINF:-1,FI: VIASAT SPORT PREMIUM HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100097
+#EXTINF:-1,FI: VIASAT HOCKEY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100098
+#EXTINF:-1,|FI| C MORE MAX 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218099
+#EXTINF:-1,GR: NOVA SPORTS NEWS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100296
+#EXTINF:-1,GR: NOVA SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100288
+#EXTINF:-1,GR: NOVA SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100289
+#EXTINF:-1,GR: NOVA SPORT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100290
+#EXTINF:-1,GR: NOVA SPORT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100291
+#EXTINF:-1,GR: NOVA SPORT 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100292
+#EXTINF:-1,GR: NOVA SPORTS 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100293
+#EXTINF:-1,GR: NOVA SPORT START
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100294
+#EXTINF:-1,GR: NOVA SPORT PRIME
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100295
+#EXTINF:-1,GR: COSMOTE SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100298
+#EXTINF:-1,GR: COSMOTE SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100299
+#EXTINF:-1,GR: COSMOTE SPORT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100300
+#EXTINF:-1,GR: COSMOTE SPORT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100301
+#EXTINF:-1,GR: COSMOTE SPORT 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100302
+#EXTINF:-1,GR: COSMOTE SPORT 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100303
+#EXTINF:-1,GR: COSMOTE SPORT 7 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100304
+#EXTINF:-1,GR: COSMOTE SPORT 8 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100305
+#EXTINF:-1,GR: COSMOTE SPORT 9 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100306
+#EXTINF:-1,SPORTS: D SPORTS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93721
+#EXTINF:-1,SPORTS: DD SPORTS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93722
+#EXTINF:-1,SPORTS: SONY SIX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93723
+#EXTINF:-1,SPORTS: STAR SPORTS 1 HD ENGLISH
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93724
+#EXTINF:-1,SPORTS: STAR SPORTS 1 HD HINDI
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93725
+#EXTINF:-1,SPORTS: STAR SPORTS 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93726
+#EXTINF:-1,SPORTS: STAR SPORTS 3
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93727
+#EXTINF:-1,SPORTS: STAR SPORTS FIRST
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93728
+#EXTINF:-1,SPORTS: STAR SPORTS SELECT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93729
+#EXTINF:-1,SPORTS: STAR SPORTS SELECT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93730
+#EXTINF:-1,SPORTS: STAR SPORTS TAMIL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93731
+#EXTINF:-1,SPORTS: TEN 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93732
+#EXTINF:-1,SPORTS: TEN 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93733
+#EXTINF:-1,SPORTS: TEN 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93734
+#EXTINF:-1,SPORTS: WILLOW CRICKET HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/93735
